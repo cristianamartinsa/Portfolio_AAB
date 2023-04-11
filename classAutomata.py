@@ -1,5 +1,5 @@
 '''
-The Python code in this class Motifs was recycled from the group work previously done by Cristiana Martins and Maria Couto and classes assisted in previous lective years.
+The Python code in this class Automata was recycled from the group work previously done by Cristiana Martins and Maria Couto and classes assisted in previous lective years.
 '''
 
 class Automata:

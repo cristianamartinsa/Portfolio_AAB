@@ -6,17 +6,9 @@ import math
 from classSequence import Sequence
 
 class Motifs:
+    
     def __init__(self, seqs: list) -> None:
-        
-        '''
-        This class allows the creation of probabilistic profiles and other functions.
-
-        Parameters
-        ----------
-        seqs : list
-            Sequences of DNA, RNA or Amino Acids.
-        '''
-        
+       
         self.seqs = seqs
         self.size = len(seqs[0])
         self.type = self.validate_seq()
